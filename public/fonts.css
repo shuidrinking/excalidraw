@@ -4,7 +4,11 @@
   src: url("Virgil.woff2");
   font-display: swap;
 }
-
+@font-face{
+  font-family: "MuyaoSoftbrush";
+  src: url("MuyaoSoftbrush.ttf");
+  font-display: swap;
+}
 /* https://github.com/microsoft/cascadia-code */
 @font-face {
   font-family: "Cascadia";
